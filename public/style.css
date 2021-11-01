@@ -1,0 +1,40 @@
+body {
+    background-color: #e3bc3b;
+    margin: 0%;
+    
+}
+
+.header{
+    font-family:'Grechen Fuemen';
+    background-color:  #ffa000;
+    /* #ff7100 */
+    /* #ffa000; */
+    margin: 0;
+    height: 80px;
+    color: white;
+    font-size: 400%;
+    padding-left: 3%;
+}
+
+.note {
+    border-style: solid;
+    width: 19%;
+    border-radius: 10%;
+    margin: 1%;
+    padding: 1.5%;
+    float: left;
+    background-color: whitesmoke;
+}
+
+.footer {
+   position: fixed;
+   text-align: center;
+   bottom: 0;
+   width: 100%;
+   height: 60px;
+   background-color: #dabd1c;
+   margin-bottom: 0;
+   margin-top: 16px;
+  
+}
+
